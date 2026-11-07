@@ -540,7 +540,11 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "doc_only": true
+   "url": "https://github.com/SharpAI/DeepCamera",
+   "head": "933dcc7c90226cd1f92dc6ea7cee3b3c94790ad0",
+   "branch": "",
+   "sha_verified_from": "permissive resolve 2026-10-16: MIT/Apache genre match (local vendor 20261107T162916Z)",
+   "previous_upstream": ""
   }
  }
 }
